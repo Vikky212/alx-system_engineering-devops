@@ -1,1 +1,1 @@
-mkdir -m 751 my-dir
+#!/bin/bash
